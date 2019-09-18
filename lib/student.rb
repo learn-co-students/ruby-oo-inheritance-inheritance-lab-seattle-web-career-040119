@@ -12,9 +12,5 @@ class Student < User
     @knowledge << str
   end
 
-  # def knowledge
-  #   @knowledge
-  # end
-
 
 end
